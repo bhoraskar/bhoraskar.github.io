@@ -4,39 +4,83 @@ title: Home
 notitle: true
 ---
 
-<div class="span4 clearfix">
-  <img class="pull-right img-circle" src="img/ravi.jpg" width=15%/>
-  <div class="paragraph">
-    Ravi Bhoraskar is a <s>penguin</s> second year graduate student in the
-    Computer Science
-    department at the University of Washington. Although he is interested in
-    everything that exists in the universe, he currently focuses on mobile
-    systems, and his recent research is driven by a strong desire to make mobile
-    apps suck less. He enjoys solving puzzles, playing sports,
-    and <a href="http://www.jabberwocky.com/carroll/jabber/jabberwocky.html">gyring and gimbling</a> in the wabe with the slithy
-    toves and mimsy borogoves.
+<div id="myCarousel" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <div class="fill" style="background-image:url(img/hospital.jpg)"></div>
+      <div class="carousel-caption">
+        <h1>Bhoraskar Hospital</h1>
+      </div>
+    </div>
+    <div class="item">
+      <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+      <div class="carousel-caption">
+        <h1>Ready to Style &amp; Add Content</h1>
+      </div>
+    </div>
+    <div class="item">
+      <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+      <div class="carousel-caption">
+        <h1>Additional Layout Options at <a href="http://startbootstrap.com">http://startbootstrap.com</a>
+        </h1>
+      </div>
+    </div>
   </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="icon-next"></span>
+  </a>
+</div>
 
 
-<h3>Contact</h3>
-&lt;firstname&gt;&lt;lastname&gt;@gmail.com
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <p>
+Bhoraskar hospital is a well-equipped hospital for E.N.T and gynaecological
+care, situated in the heart of Indore, in Central India. We are specialists in
+E.N.T and Gynecological endoscopic surgery. There are excellent facilities for
+nasal endoscopy, sinus endoscopy, middle ear surgery and Gynecological
+endoscopic procedures.
+      </p>
+    </div>
+  </div>
+</div>
 
-<h3>News</h3>
-<ul class="news list-unstyled">
-{% for post in site.posts limit: site.front_page_news %}
-    {% if post.shortnews %}
-        <li class="shortnews">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            {{ post.content }}
-        </li>
-    {% else %}
-        <li class="bloglink">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
-        </li>
-    {% endif %}
-{% endfor %}
-</ul>
-{% assign numposts = site.posts | size %}
-<p><a href="{{ site.base }}/news.html">All news&hellip;</a></p>
+<div class="section-colored">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-6">
+        <h3>Obstetrics &amp; Gynaecology</h3>
+        <p> Our specialities include: </p>
+        <ul>
+          <li>Laproscopic Surgery</li>
+          <li>Preventive Health Care in Pregnancy</li>
+          <li>Fully Equipped Obstetrical Unit</li>
+          <li>Treatment for Gynecological Problems</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <h3>Ear Nose, and Throat</h3>
+        <p>Our specialities include: </p>
+        <ul>
+          <li>Sinus Endoscopy</li>
+          <li>Micro Ear Surgery</li>
+          <li>Audiology</li>
+          <li>Noise Ergonomics</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
