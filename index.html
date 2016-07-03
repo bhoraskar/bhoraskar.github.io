@@ -5,40 +5,30 @@ notitle: true
 ---
 
 <div class="span4 clearfix">
-  <img class="pull-right img-circle" src="img/ravi.jpg" width=15%/>
+  <iframe class="pull-right" width="40%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Bhoraskar+Hospital,+29%2F7,+South+Tukoganj,+South+Tukoganj,+Indore,+Madhya+Pradesh,+India&amp;aq=0&amp;oq=bhoraskar&amp;sll=22.717627,75.875187&amp;sspn=0.006215,0.009645&amp;ie=UTF8&amp;hq=Bhoraskar+Hospital,+29%2F7,+South+Tukoganj,&amp;hnear=South+Tukoganj,+Indore,+Madhya+Pradesh,+India&amp;ll=22.717745,75.875181&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
   <div class="paragraph">
-    Ravi Bhoraskar is a <s>penguin</s> Software Engineer at Facebook, and a graduate
-    student on leave from the Computer Science
-    department at the University of Washington. One day, he shall return &mdash; a prodigal son &mdash; and finish his PhD. 
-    Although he is interested in
-    everything that exists in the universe, he currently focuses on mobile
-    systems, and is driven by a strong desire to learn everything there is to learn about 
-    Android, to help make mobile
-    apps suck less. He enjoys solving puzzles, playing racquet sports,
-    and <a href="http://www.jabberwocky.com/carroll/jabber/jabberwocky.html">gyring and gimbling</a> in the wabe with the slithy
-    toves and mimsy borogoves.
+      Bhoraskar hospital is a well-equipped hospital for Gynaecologican, and ENT care, situated in the heart of Indore, in Central India. We are specialists in Gynecological and ENT endoscopic surgery. There are excellent facilities for nasal endoscopy, sinus endoscopy, middle ear surgery and Gynecological endoscopic procedures.
   </div>
 
+  <h3>Our Specialities</h3>
+  <ul>
+      <li>
+          Obstetrics &amp; Gynaecology
+          <ul>
+              <li>Laproscopic Surgery</li>
+              <li>Preventive Health Care in Pregnancy</li>
+              <li>Fully Equipped Obstetrical Unit</li>
+              <li>Treatment for Gynecological Problems</li>
+          </ul>
+      </li>
+      <li>
+          Ear, Nose &amp; Throat Diseases
+          <ul>
+              <li>Sinus Endoscopy</li>
+              <li>Micro Ear Surgery</li>
+              <li>Audiology</li>
+              <li>Noise Ergonomics</li>
+          </ul>
+      </li>
 
-<h3>Contact</h3>
-&lt;firstname&gt;&lt;lastname&gt;@gmail.com
-
-<h3>News</h3>
-<ul class="news list-unstyled">
-{% for post in site.posts limit: site.front_page_news %}
-    {% if post.shortnews %}
-        <li class="shortnews">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            {{ post.content }}
-        </li>
-    {% else %}
-        <li class="bloglink">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
-        </li>
-    {% endif %}
-{% endfor %}
-</ul>
-{% assign numposts = site.posts | size %}
-<p><a href="{{ site.base }}/news.html">All news&hellip;</a></p>
-</div>
+  </ul>
