@@ -23,8 +23,8 @@ navigation:
       link: /
     - title: Contact
       link: /contact
-    - title: Random
-      link: /random
+    - title: Facilities
+      link: /facilities
     - title: Blog
       link: http://blogbloggityblog.wordpress.com/
 
