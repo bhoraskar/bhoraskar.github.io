@@ -8,22 +8,16 @@ markdown: redcarpet
 redcarpet:
     extensions: [smart, tables]
 
-# The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
-
-# Base pathname for links.
-base: ''
-
 # Navigation bar links.
 navigation:
     - title: Home
       link: /
     - title: Contact
       link: /contact
-    - title: Facilities
-      link: /facilities
     - title: Specialists
       link: /specialists
+    - title: Facilities
+      link: /facilities
 
 # Addons
 gems:
