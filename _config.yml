@@ -18,8 +18,10 @@ navigation:
       link: /specialists
     - title: Facilities
       link: /facilities
-    - title: ENT Section
+    - title: ENT
       link: /ent/earcaretips.html
+    - title: OBGY
+      link: /obgy/pregnant.html
 
 # Addons
 gems:
