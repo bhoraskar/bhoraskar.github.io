@@ -1,6 +1,6 @@
 ---
 layout: ent
-title: Ear Care Tips for Children
+title: Treatment of Sinusitis
 ---
 
 - Never breastfeed infants in lying down position. The milk may enter into the ear via Eustachian canal ( a connecting passage between throat and middle ear ) and can cause infection of middle ear. 

@@ -18,6 +18,8 @@ navigation:
       link: /specialists
     - title: Facilities
       link: /facilities
+    - title: ENT Section
+      link: /ent/earcaretips.html
 
 # Addons
 gems:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ent
 title: Ear Care Tips
 ---
 
