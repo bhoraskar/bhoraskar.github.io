@@ -1,23 +1,60 @@
 ---
 layout: ent
-title: Ear Care Tips for Children
+title: Noise and its effects
 ---
 
-- Never breastfeed infants in lying down position. The milk may enter into the ear via Eustachian canal ( a connecting passage between throat and middle ear ) and can cause infection of middle ear. 
+### What is Noise? 
 
-- Never pour oil, warm water, honey, cow's urine into the ear of the child. All these may lead to damage of ear and deafness. 
+From sufferers' point of view, it is any sound, which they would have stopped if they could. It is undesirable, unpleasant and untimely sound, which can be continuous or intermittent. 
+Besides this, with the vast diversity of human culture and individual preferences, it can be empathized that, *One man's music can be other man's Noise.*
 
-- Instruct children, never to introduce Pen, Pencil, Hairpin, Match stick, seeds or objects like that to scratch the ear.  Tell them to report immediately if they experience itching, pain etc. in the ear. 
+Scientifically, it can be described as a complex waveform, having uncertain periodicity and with one or more frequency spectrums intermixed, measurable in terms of 
 
-- If an otherwise intelligent child is not performing well in the school, then there is possibility that she is unable to hear the teacher clearly or view the letters on blackboard clearly. 
+- Duration in time. 
+- Frequency spectrum in Hz or cycles per sec. 
+- Loudness or Sound Pressure Level (SPL) in Decibels(dB). 
 
-- Never slap a child on ear. This can lead to damage of ear drum, deafness and other complications. 
+Some of the comparative examples for estimate of Decibels values are:
 
-- If a child having cough and cold is picking his ears periodically, becoming irritable, not listening to instructions, talking louder than usual, then there may be infection in the ear also. Consult your ENT specialist in this condition. 
+- Whisper: *20-30 dB*
+- Normal converstation: *60-65 dB*
+- Street Traffic, Shouted conversation: *80-85 dB*
+- Loud Discotheques, Generators: *120 dB*
+- Jet Engine (about 90 - 100 feet away): *140 dB*
 
-- If the child does not properly attend to instructions at home / school, then she might be having dificulty in hearing. 
+*A daily exposure to about 80 dB is the upper limit, people can tolerate without significant damage to their hearing.*
 
-- Early detection and Use of hearing aid at an early stage of deafness in children prevents other complications of deafness, most notably Mental Retardation!
+### How much damaging Noise can be? 
+Most of the Psychological Effects of noise, depend on the pre-existing physical and psychological state of the individual. 
+
+Some of us, already living in noisy surroundings, may be more tolerant to Noise. While the others, having the previledge of a peaceful neighbourhood, may easily get irritated by the same sound. 
+The 'irritaion threshold' will also be low for neurotic persons or for someone who is already annoyed or unhappy. 
+
+For the other, Physical Effects, of sound, there is no special mercy for any individual, for example, a very loud sound can rupture the eardrum or damage the ear in other ways, of everyone whoever comes in its vicinity.
+
+### What can the Noise do to you? 
+
+#### Effects on the Ear
+
+- **Deafness**
+  - *Temporary Deafness*: This Persists for about 24 hours after exposure to loud noise. 
+
+  - *Permanent Deafness*: Repeated or continous exposure to noise of around 100 dB results in permanent hearing loss. Even single exposure to noise of 160 dB can lead to rupture of ear drum and permanent deafness.
+
+   In cases of long term exposure to moderatly loud noise, the onset and progress of noise induced deafness is very gradual and by the time the individual is already somewhat deaf, he/she many not be aware of the deafness until the deafness starts affecting the person's ability to hear normal conversation, telephone rings and doorbells etc. 
+
+- **Auditory Fatigue**: Noise of 90 dB causes buzzing and whistling in the ears.
+
+#### Effects on other systems
+- **Decreased Work Efficiency**: With increasing noise, efficiency of work decreases because of disturbed concentration, annoyance and early onset of fatigue. 
+- **Increased Intracranial Pressure**: (Fluid Pressure of the Cerebro Spinal Fluid, the fluid present inside the cavites of brain and between brain and skull). This leads to Headache, Nausea and Giddiness. 
+
+- **Increased Blood Pressure**: Noise can very effectively raise the Blood Pressure of even a normal person. 
+
+- Increased Heart Rate, Respiration rate and Sweating. 
+
+- Diminished Night Vision, Colour Perception and visual disturbances.
+
 
 *Authors:*
 

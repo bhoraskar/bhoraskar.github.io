@@ -3,32 +3,47 @@ layout: ent
 title: Treatment of Sinusitis
 ---
 
-- Never breastfeed infants in lying down position. The milk may enter into the ear via Eustachian canal ( a connecting passage between throat and middle ear ) and can cause infection of middle ear. 
+**Acute sinusitis** is treated by drugs, which are:
 
-- Never pour oil, warm water, honey, cow's urine into the ear of the child. All these may lead to damage of ear and deafness. 
+- Antibiotics
+- Pain killers
+- Decongestants ( Drugs which decrease congestion and discharge, by decreasing the fluid secretion by sinus and nasal mucosa. )  These Decongestants are given  Locally (e.g. Sprays ) and Systemic (e.g. Tablets, Syrups )
+- Steam Inhalation, optionally with Tincture Benzoin is also used for its decongestant effect.
 
-- Instruct children, never to introduce Pen, Pencil, Hairpin, Match stick, seeds or objects like that to scratch the ear.  Tell them to report immediately if they experience itching, pain etc. in the ear. 
+**Chronic sinusitis** is treated Surgically. The surgery for chronic sinusitis can be: 
+- Antral Puncture and Lavage.
+- Frontal Sinus Trephination.
+- Intranasal Antrostomy.
+- Caldwell-Luc Operation.
+- External Frontoethmoidectomy
+- Osteo-plastic Flap Operation
+- External and Internal Ethmoidectomy & Sphenoidectomy
 
-- If an otherwise intelligent child is not performing well in the school, then there is possibility that she is unable to hear the teacher clearly or view the letters on blackboard clearly. 
+During the decade 1990-2000, there has been a betterment in understanding of anatomy and physiology of parasanal sinuses. 
 
-- Never slap a child on ear. This can lead to damage of ear drum, deafness and other complications. 
+The correct diagnosis and the extent of the disease is ascertained by CT scan. 
 
-- If a child having cough and cold is picking his ears periodically, becoming irritable, not listening to instructions, talking louder than usual, then there may be infection in the ear also. Consult your ENT specialist in this condition. 
+Since the advent of *Hoffkin's Rigid Telescope* and *Computerized Tomography Scan (CT Scan)*, the management of recurrent acute and chronic sinusitis has revolutionized. 
 
-- If the child does not properly attend to instructions at home / school, then she might be having dificulty in hearing. 
+Technological advancements in the field of Fiber-Optics has opened a possibility of avoiding a radical procedure by external route thereby improving the efficiency of the procedure. 
 
-- Early detection and Use of hearing aid at an early stage of deafness in children prevents other complications of deafness, most notably Mental Retardation!
+Endoscopic sinus surgery has varied uses, it mainly useful in:
+
+- Nasal polyposis.
+- Chronic sinusitis.
+
+It is also useful in other conditions e.g.
+
+- Endoscopic DCR
+- Orbital decompression
+- Hypophysectomy.
+- Choanal Atresia surgery
+- Surgery for CSF leak.
+- Epestexis diagnosis and treatment.
+
+One of the most promising and newest surgical technique for treatment of Chronic Sinusitis is [Functional Endoscopic Sinus Surgery ( FESS )](fess.html). 
+
 
 *Authors:*
 
-**Dr. Vijay Chouradia, MS (E.N.T.)**  
-Ear Nose and Throat Surgeon  
-Micro-Surgery Specialist (Mumbai)  
-UG-08, Royal View, Off Meghdoot Garden  
-Scheme No. 54, Vijaynagar  
-Indore  
-Cell: 9301550045  
-Phone: (0731) 2550044
-
-**Dr. Pankaj Tripathi**
-
+**Dr. Nitin Bhoraskar**  

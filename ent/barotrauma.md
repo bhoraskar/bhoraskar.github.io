@@ -1,23 +1,27 @@
 ---
 layout: ent
-title: Ear Care Tips for Children
+title: Air Travel and Barotrauma
 ---
 
-- Never breastfeed infants in lying down position. The milk may enter into the ear via Eustachian canal ( a connecting passage between throat and middle ear ) and can cause infection of middle ear. 
+### What is barotrauma?
 
-- Never pour oil, warm water, honey, cow's urine into the ear of the child. All these may lead to damage of ear and deafness. 
+Our ear is divided into 3 parts, Outer, middle and inner ear. The air pressure in Middle ear is maintained equal to the atmospheric pressure by a tube(called Eustachian Tube), running from middle ear to throat. 
 
-- Instruct children, never to introduce Pen, Pencil, Hairpin, Match stick, seeds or objects like that to scratch the ear.  Tell them to report immediately if they experience itching, pain etc. in the ear. 
+In air travel, during ascent, while diving and in compression chambers, because of increasing air pressure, Eustachian Tube is locked. It can not convey air into the middle ear and so pressure in middle ear decreases. 
 
-- If an otherwise intelligent child is not performing well in the school, then there is possibility that she is unable to hear the teacher clearly or view the letters on blackboard clearly. 
+Because of this Negative pressure inside Middle ear, fluids are secreated inside it, which may lead to rupture of ear drum. (This phenomenon is called barotrauma, because the cause of injury is change in air pressure) 
 
-- Never slap a child on ear. This can lead to damage of ear drum, deafness and other complications. 
+The common symptoms of this condition are Pain in ear, sensation of fullness and Deafness.
 
-- If a child having cough and cold is picking his ears periodically, becoming irritable, not listening to instructions, talking louder than usual, then there may be infection in the ear also. Consult your ENT specialist in this condition. 
+### Prevention of barotrauma during Air travel
 
-- If the child does not properly attend to instructions at home / school, then she might be having dificulty in hearing. 
-
-- Early detection and Use of hearing aid at an early stage of deafness in children prevents other complications of deafness, most notably Mental Retardation!
+- Avoid air travel when suffering from severe cold or running nose due to allergy becuase the Eustachian Tube is already partially or fully blocked in those conditions. If cold is severe but air travel is also essential then take decongestant tablets/ nasal drops 1 hour before departure of flight, after consulting your doctor. 
+- Periodic chewing of chewing gum, particularly during landing and takeoff. The swallowing movements of the jaw, actively open the Eustachian Canal and so airway from throat to middle ear is maintained. 
+- Valsulva maneuver:
+  1. Close the nose with finger and thumb.
+  1. Close mouth and attempt to exhale breath. This will cause a 'pop' sound in ears (due to air trying to escape through ear and hitting the ear drum.) This maneuver actively opens the closed Eustachian canal. 
+  1. Repeat the above 2 steps periodically during air travel, particularly during takeoff and landing.
+- Do not sleep during takeoff and landing because frequency of swallowing is very less during sleep.
 
 *Authors:*
 
