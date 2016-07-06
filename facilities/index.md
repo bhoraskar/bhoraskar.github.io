@@ -11,14 +11,14 @@ We provide excellent services for:
 
 - Maternity and Gynecological care
 
-- Infertility Treatment
+- Basic Infertility Treatment
 
 
 The facilities available at Bhoraskar Hospital include
 
-- All the facilities needed for Nasal Endoscopy and laproscopy, like Endo Camera, Medical Grade Colour Monitor, Under Water Cautry, etc. 
+- All the facilities needed for Nasal Endoscopy, Micro-ear surgery, and basic laproscopic surgery
 
-- For neonatal resuscitation, there is Resuscitator, Baby Warmer and an attending Paediatrician
+- We have a well equipped labour room, and neonatal resuscitation facility
 
 - Very economic admission facility in private and general rooms
 
