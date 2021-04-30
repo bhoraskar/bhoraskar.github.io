@@ -67,7 +67,7 @@ More than 90 % patients recover well with timely treatment
 
 ## Word of advice
 
-Unfortunately something goes wrong in family, do not blame doctor convince yourself that t/system/government/your country or yourself. Do not try to convince yourself that this mishap was preventable, and it occurred because someone did something wrong.
+If unfortunately something goes wrong in the family, do not blame the doctor, system, government, your country, or yourself. Do not try to convince yourself that this mishap was preventable, and it occurred because someone did something wrong.
 
 Most of medicines reduce severity of disease reduce hospital stay but not mortality by a significant extent. Early diagnosis and early treatment is key to get well.
 
