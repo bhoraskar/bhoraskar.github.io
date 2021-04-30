@@ -98,3 +98,6 @@ A:- Yes
 
 **Q:- Can I get vaccine if I am pregnant or breast feeding baby?**<br/>
 A:- International society of Obstetricians recommend that it can be done during pregnancy and lactation. In India vaccination is not recommended for pregnant woman, there is no clear guideline regarding lactation. We all are learning, I would recommend avoid vaccine for 6 to 8 weeks after delivery, till you are fully active
+
+*Author:*<br/>
+**Dr. Vaijayanti Bhoraskar**
