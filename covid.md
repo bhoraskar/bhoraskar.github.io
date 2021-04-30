@@ -29,7 +29,6 @@ title: What should I do during the Pandemic?
 - Rest
 - Eat well and stay hydrated
 - Monitor and record Pulse/Temperature/Oxygen level every 4 hours
-- Steam inhalation
 
 Monitoring is very important because in some people, especially young people, oxygen level could be dropping even
 if the patient feels comfortable
