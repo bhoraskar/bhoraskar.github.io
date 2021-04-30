@@ -27,6 +27,7 @@ title: What should I do during the Pandemic?
 ## During home isolation
 
 - Rest
+- Eat well and stay hydrated
 - Monitor and record Pulse/Temperature/Oxygen level every 4 hours
 - Steam inhalation
 
