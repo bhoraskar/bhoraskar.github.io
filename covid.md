@@ -1,59 +1,61 @@
 ---
 layout: default
-title: What should I do during the Pandemic
+title: What should I do during the Pandemic?
 ---
 
 - First and foremost: Do not panic
-- Follow Covid behavior, which has been told repeatedly Viz.
+- Follow Covid behaviors, which has been told repeatedly, i.e.
   - Social Distancing
-  - Avoid unnecessary outing
-  - Mask
-  - Frequent had wash with soap and water
+  - Avoid unnecessary outings
+  - Wear a mask
+  - Frequent hand wash with soap and water
 
 ## Am I suffering from Corona?
 
-- Body ache, weakness + mild fever are earliest symptoms
-- Cough and cold
-- Some also have diarrhoea
-- If these persist beyond 3 days and/or associated with fever &gt; 100 F get RT PCR done
+- Body ache, weakness + mild fever are the earliest symptoms
+- However, a mild body ache, lasting for 2-3 hours disappearing by itself is likely due to fatigue, or a non-covid viral fever
+- Other symptoms are cough, cold, and some also have diarrhoea
+- If these persist beyond 3 days and/or associated with fever &gt; 100&deg;F get RT PCR covid test done
+- It is imporant to wait 3 days, because if you test very early it may not come positive despite having the disease
 
-## Why not Immediately?
+## I am Covid positive! What now?
 
-- Mild body ache, lasting for 2-3 hours disappearing by itself is more likely to be due to non Covid viral fever
-- If you test very early it may not come positive despite having disease.
+- Contact a physician and start medication, per their advice
+- Isolate at home
+- Get a pulse oximeter and thermometer to monitor your condition at home (per your doctor's advice)
 
-## During Home isolation
+## During home isolation
 
-- Contact physician and start medication
 - Rest
-- Monitor and record Pulse/Temperature/SPO2 every 4 hours
+- Monitor and record Pulse/Temperature/Oxygen level every 4 hours
 - Steam inhalation
 
-Monitoring is very important because in some people especially young even SPO2 falls patient feels comfortable
+Monitoring is very important because in some people, especially young people, oxygen level could be dropping even
+if the patient feels comfortable
 
-Contact doctor if:
+Contact a doctor if:
 
-- Fever persist &gt;100 degree F
+- Fever persists &gt;100 degree F
 - Breathing difficulty
-- SPO2 &lt; 94%
+- Oxygen level (SPO2) falls below 94%
 
-## Extreme Covid Behavior
-- Panic with minimum symptoms
-- I am young my symptoms are mild
-- Collecting and Hoarding medicines
-- My parents/beloved will worry
-- Getting admitted in hospital because I can afford
-
-More than 90 % patients recover well with timely treatment
-
-## If someone is Covid positive in house
-
-- Keep him well isolated
+## If someone is Covid positive in the house
+- Keep them well isolated
 - Do not share his/her toilet
-- If only toilet in house do not use for 20 minutes after the positive person uses it
-- Wear mask always
+- If only toilet in the house do not use for 20 minutes after the positive person uses it
+- Always wear a mask
 - Other members of household should be watchful about symptoms in themself, and follow protocol as above
 - Even if no symptoms appear for 7-8 days, stay away from others till then
+
+## Avoid extreme Covid behavior
+Avoid the following
+- Panic with minimum symptoms
+- Collecting and hoarding medicines
+- Getting admitted in hospital because I can afford
+- "I am young my symptoms are mild, I don't need treatment"
+- "My parents/beloved will worry, so I shouldn't tell them about my symptoms"
+
+Don't take the disease lightly, but don't panic either. More than 90% of patients recover well with timely treatment
 
 ## If I get Covid infection during pregnancy
 
@@ -65,7 +67,7 @@ More than 90 % patients recover well with timely treatment
 - Antiviral drugs should be given when absolutely essential for patients recovery.
 - It is better that a physician treats a pregnant Covid patient then a obstetrician
 
-## Word of advice
+## A word of advice
 
 If unfortunately something goes wrong in the family, do not blame the doctor, system, government, your country, or yourself. Do not try to convince yourself that this mishap was preventable, and it occurred because someone did something wrong.
 
