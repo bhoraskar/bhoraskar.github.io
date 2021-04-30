@@ -14,12 +14,12 @@ title: What should I do during the Pandemic
 
 - Body ache, weakness + mild fever are earliest symptoms
 - Cough and cold
-- Some also have diarrhea
+- Some also have diarrhoea
 - If these persist beyond 3 days and/or associated with fever &gt; 100 F get RT PCR done
 
 ## Why not Immediately?
 
-- Mild body ache, lasting for 2-3 hours disappearing by itself is more likely tu be due to non Covid viral fever
+- Mild body ache, lasting for 2-3 hours disappearing by itself is more likely to be due to non Covid viral fever
 - If you test very early it may not come positive despite having disease.
 
 ## During Home isolation
@@ -29,7 +29,7 @@ title: What should I do during the Pandemic
 - Monitor and record Pulse/Temperature/SPO2 every 4 hours
 - Steam inhalation
 
-Monitoring is very important because in some people especially young even SPO2 falls patient feels confortable
+Monitoring is very important because in some people especially young even SPO2 falls patient feels comfortable
 
 Contact doctor if:
 
@@ -58,8 +58,8 @@ More than 90 % patients recover well with timely treatment
 ## If I get Covid infection during pregnancy
 
 - Unlike last year this second wave this second wave is affecting many pregnant women.
-- Treatment for Covid is same as that of a non pregnant patient, except that certain medicines are not advisable during pregnancy.
-- Ivermactine and Doxycycline should be avoided during pregnancy.
+- Treatment for Covid is same as that of a non-pregnant patient, except that certain medicines are not advisable during pregnancy.
+- Ivermectin and Doxycycline should be avoided during pregnancy.
 - Aspirin, heparin should be stopped at least one week before delivery. Therefor stop these 3 to 4 week before EDD.
 - CT scan can be done if essential
 - Antiviral drugs should be given when absolutely essential for patients recovery.
@@ -67,7 +67,7 @@ More than 90 % patients recover well with timely treatment
 
 ## Word of advice
 
-Unfortunetly something goes wrong in family, do not blame doctor convince yourself that t/system/government/your country or yourself. Do not try to convince yourself that this mishap was preventable, and it occurred because someone did something wrong.
+Unfortunately something goes wrong in family, do not blame doctor convince yourself that t/system/government/your country or yourself. Do not try to convince yourself that this mishap was preventable, and it occurred because someone did something wrong.
 
 Most of medicines reduce severity of disease reduce hospital stay but not mortality by a significant extent. Early diagnosis and early treatment is key to get well.
 
@@ -75,16 +75,15 @@ Most of medicines reduce severity of disease reduce hospital stay but not mortal
 
 Although anticipated to some extent, all of us collectively failed to anticipate severity of second wave. We behaved well during first year and gradual unlock was done after Diwali. Beyond a small spike in November surprisingly the number of affected cases kept on falling till February this year. So we thought we won and removed our guard.
 
-Virus is very weak and vulnerable without a host. But it very fast propagated inside a host, also it can mutate and exhibit new charastetics. In a gathering it finds new host and spreads.
+Virus is very weak and vulnerable without a host. But it very fast propagated inside a host, also it can mutate and exhibit new characteristics. In a gathering it finds new host and spreads.
 
 We are fortunate that vaccination of healthcare workers and other frontline workers was complete before second wave struck a t least we have people working in hospitals. This in turn proves that vaccine works. So keep in mind that vaccine is an important weapon in our hand to fight corona.
 
 ## Why do people try to avoid Vaccination
 
-- Some think they will get Covid after vaccination. I fact immunity develops after 3 weeks of second dose, if some one gets disease before its not because of vaccine but despite of vaccine.
-
-- Some are worried about side effects. Every medicine has some or other side effects, but with vaccine it is very low and risk of Covid is far more then risk of side evvect of vaccine.
-- I may miss my important work e.g. Examination etc. if I get vaccine now. Side effect if at all they occur like body ache mild fever that it is not likely to make you miss your work and again risk of disease far more to make you miss your important work.
+- Some think they will get Covid after vaccination. In fact immunity develops after 3 weeks of second dose, if someone gets disease before it isn't because of the vaccine but despite the vaccine.
+- Some are worried about side effects. Every medicine has some or other side effects, but with vaccine it is very low and risk of Covid is far more than risk of side effect of vaccine.
+- I may miss my important work e.g. examination etc. if I get vaccine now. Side effect if at all they occur like body ache mild fever that it is not likely to make you miss your work and again risk of disease far more to make you miss your important work.
 
 ## Some other aspect of vaccine
 
