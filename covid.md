@@ -13,10 +13,10 @@ title: What should I do during the Pandemic?
 ## Am I suffering from Corona?
 
 - Body ache, weakness + mild fever are the earliest symptoms
-- However, a mild body ache, lasting for 2-3 hours disappearing by itself is likely due to fatigue, or a non-covid viral fever
+- However, a mild body ache, lasting for 2-3 hours disappearing by itself is likely due to fatigue
 - Other symptoms are cough, cold, and some also have diarrhoea
-- If these persist beyond 3 days and/or associated with fever &gt; 100&deg;F get RT PCR covid test done
-- It is imporant to wait 3 days, because if you test very early it may not come positive despite having the disease
+- If these persist beyond 2 days and/or associated with fever &gt; 100&deg;F get RT PCR covid test done
+- It is imporant to wait 2 days, because if you test very early it may not come positive despite having the disease
 
 ## I am Covid positive! What now?
 
@@ -62,7 +62,7 @@ Don't take the disease lightly, but don't panic either. More than 90% of patient
 - Unlike last year this second wave this second wave is affecting many pregnant women
 - Treatment for Covid is same as that of a non-pregnant patient, except that certain medicines are not advisable during pregnancy
 - Ivermectin and Doxycycline should be avoided during pregnancy
-- Aspirin, heparin should be stopped at least one week before delivery. Therefor stop these 3 to 4 week before EDD
+- Aspirin, heparin should be stopped at least one week before delivery. Therefore stop these 3 to 4 week before EDD
 - CT scan can be done if essential
 - Antiviral drugs should be given when absolutely essential for patients recovery
 - It is better that a physician treats a pregnant Covid patient then a obstetrician
