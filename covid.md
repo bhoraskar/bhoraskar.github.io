@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: obgy
 title: What should I do during the Pandemic?
 ---
 
